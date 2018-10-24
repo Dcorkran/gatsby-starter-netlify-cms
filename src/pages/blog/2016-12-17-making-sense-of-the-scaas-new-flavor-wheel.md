@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Improving Your Life and Shit
-date: 2016-12-17T15:04:10.000Z
+date: 2018-02-01T15:04:10.000Z
 description: >-
   Random post of the day. I like making random updates to my blog because it is
   so easy. Cool cool cool cool. I don't know what else to type.
