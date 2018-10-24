@@ -1,18 +1,23 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Improving Your Life and Shit
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: >-
+  Random post of the day. I like making random updates to my blog because it is
+  so easy. Cool cool cool cool. I don't know what else to type.
 tags:
   - flavor
   - tasting
 ---
+![flavor wheel](/img/13177140_10156859205610099_5383679005161264401_n.jpg)
 
-![flavor wheel](/img/flavor_wheel.jpg)
+## Improve your circle
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+"Your circle could be a mirror of how you view the world. If you are in a negative circle that robs you of your joy and self-esteem, you are not really going to attain much.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Improve your circle of friends. Focus on quality rather than quantity. People that push you to become the best version of yourself or make you feel good about yourself shouldn’t be traded for anything in the world."
+
+Feeling Stuck sucks! Read these tips and let us help you :)
 
 ## What the updates mean to you
 
